@@ -14,10 +14,19 @@
 <config>
     <modules>
         <Laurent_Sass>
-            <version>1.1.1</version>
+            <version>1.1.2</version>
         </Laurent_Sass>
     </modules>
     <global>
+        <cache>
+            <types>
+                <sass translate="label,description" module="sass">
+                    <label>Sass</label>
+                    <description>Compiled Sass files</description>
+                    <tags>SASS</tags>
+                </sass>
+            </types>
+        </cache>
         <helpers>
             <sass>
                 <class>Laurent_Sass_Helper</class>
