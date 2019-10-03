@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Sass",
+    "name": "openmage-module-fostering\/sass",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL-3.0)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Sass - Syntactically Awesome Stylesheets",
     "authors": [
