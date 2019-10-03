@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Sass",
+    "name": "OpenMageModuleFostering\/Sass",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL-3.0)",
     "homepage": "",
     "description": "Sass - Syntactically Awesome Stylesheets",
     "authors": [
-    {
-        "name": "Laurent Clouet",
-        "email": "laurent35240@gmail.com"
-    }
-],
+        {
+            "name": "Laurent Clouet",
+            "email": "laurent35240@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
